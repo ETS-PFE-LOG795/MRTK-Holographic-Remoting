@@ -8,6 +8,8 @@ To run the Holographic Remoting feature in the Unity Player, open the panel unde
 
 To run the Holographic Remoting feature as an executable, simply build the app (shortcut `ctrl+shift+B`), launch it, and enter the HoloLens IP address in the field located in the top-left corner of the screen. The required IP address is available from the HoloLens companion app named Holographic Remoting Player, available directly from the store. Make sure this companion app is running when you enter playmode.
 
+![Holographic Mars Rover in Unity Scene](https://docs.microsoft.com/en-us/learn/modules/pc-holographic-remoting-tutorials/media/holographic-remoting.png#lightbox)
+
 ## Modules
 
  1. ✔️ Introduction to Mixed Reality Toolkit - Create a Mars Curiosity Rover hologram
